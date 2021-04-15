@@ -1,9 +1,7 @@
 # Youtube
 0.0.0.0 www.youtube.com
-0.0.0.0 youtube.com
 
 # Yahoo
-0.0.0.0 yahoo.com
 0.0.0.0 in.yahoo.com
 0.0.0.0 www.yahoo.com
 
